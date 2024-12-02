@@ -140,6 +140,7 @@
     <ClCompile Include="lesson014.cpp" />
     <ClCompile Include="lesson015.cpp" />
     <ClCompile Include="lesson016.cpp" />
+    <ClCompile Include="lesson017.cpp" />
     <ClCompile Include="Math.ixx" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
